@@ -8,9 +8,10 @@ class Program
         int a, b;
 
         a = 5;
-        b = 6;
-  
-        int sum = a + b;
+        b = 666666;
+
+
+        int sum = a + b + b;
         Console.WriteLine($"Tổng của {a} và {b} là {sum}");
 
         // Dừng chương trình để người dùng có thể xem kết quả trước khi đóng cửa sổ console
