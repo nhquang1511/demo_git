@@ -8,7 +8,7 @@ class Program
         int a, b;
 
         a = 5;
-        b = 666666;
+        b = 66;
 
 
         int sum = a + b + b;
