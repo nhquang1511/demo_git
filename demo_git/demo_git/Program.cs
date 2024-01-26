@@ -12,7 +12,7 @@ class Program
 
 
         int sum = a + b + b;
-        Console.WriteLine($"Tổng của {a} và {b} là {sum}");
+        Console.WriteLine($"Tổng của {a} và {b} là {sum} Tổng của {a} và {b} là {sum}");
 
         // Dừng chương trình để người dùng có thể xem kết quả trước khi đóng cửa sổ console
         Console.ReadLine();
